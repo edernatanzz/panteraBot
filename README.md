@@ -1,0 +1,1 @@
+# PanteraBot - FURIA Tech Challenge
