@@ -8,12 +8,19 @@
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["discord", "bot", "furia", "esports"],
+  "keywords": [
+    "discord",
+    "bot",
+    "furia",
+    "esports"
+  ],
   "author": "Eder Natan Azevedo Figueiredo",
   "license": "MIT",
   "description": "",
   "dependencies": {
+    "@types/axios": "^0.9.36",
     "@types/node": "^22.15.2",
+    "axios": "^1.9.0",
     "discord.js": "^14.19.1",
     "dotenv": "^16.5.0",
     "ts-node": "^10.9.2",
